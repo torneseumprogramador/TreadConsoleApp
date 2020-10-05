@@ -1,0 +1,13 @@
+C:\Users\Administrador\source\repos\TreadConsoleApp\TreadConsoleApp\bin\Debug\netcoreapp3.1\TreadConsoleApp.exe
+C:\Users\Administrador\source\repos\TreadConsoleApp\TreadConsoleApp\bin\Debug\netcoreapp3.1\TreadConsoleApp.deps.json
+C:\Users\Administrador\source\repos\TreadConsoleApp\TreadConsoleApp\bin\Debug\netcoreapp3.1\TreadConsoleApp.runtimeconfig.json
+C:\Users\Administrador\source\repos\TreadConsoleApp\TreadConsoleApp\bin\Debug\netcoreapp3.1\TreadConsoleApp.runtimeconfig.dev.json
+C:\Users\Administrador\source\repos\TreadConsoleApp\TreadConsoleApp\bin\Debug\netcoreapp3.1\TreadConsoleApp.dll
+C:\Users\Administrador\source\repos\TreadConsoleApp\TreadConsoleApp\bin\Debug\netcoreapp3.1\TreadConsoleApp.pdb
+C:\Users\Administrador\source\repos\TreadConsoleApp\TreadConsoleApp\obj\Debug\netcoreapp3.1\TreadConsoleApp.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\TreadConsoleApp\TreadConsoleApp\obj\Debug\netcoreapp3.1\TreadConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\TreadConsoleApp\TreadConsoleApp\obj\Debug\netcoreapp3.1\TreadConsoleApp.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\TreadConsoleApp\TreadConsoleApp\obj\Debug\netcoreapp3.1\TreadConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\TreadConsoleApp\TreadConsoleApp\obj\Debug\netcoreapp3.1\TreadConsoleApp.dll
+C:\Users\Administrador\source\repos\TreadConsoleApp\TreadConsoleApp\obj\Debug\netcoreapp3.1\TreadConsoleApp.pdb
+C:\Users\Administrador\source\repos\TreadConsoleApp\TreadConsoleApp\obj\Debug\netcoreapp3.1\TreadConsoleApp.genruntimeconfig.cache
