@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ha2Vzq7qYUR8dEjmdjlFXlClAzV5VPCzUBWpwxej7fqRSI6LbIey1kcBpQW5z7VXBcdzNZJpOrITzKvDm9nhlA==",
+  "dgSpecHash": "jA3q6Oldh58MhZQSVK7LGg4GhzLPfJWaC3TEY7Fdhf0mXDLNWdo5pv4BjQo0D+MYxOwyy32G9hGH/g8NRhY4hA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrador\\source\\repos\\TreadConsoleApp\\TreadConsoleApp\\TreadConsoleApp.csproj",
+  "projectFilePath": "/Users/danilo/projetos/torne-se/aulas/dotnet_core/TreadConsoleApp/TreadConsoleApp/TreadConsoleApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

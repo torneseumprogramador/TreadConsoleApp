@@ -7,17 +7,22 @@ namespace TreadConsoleApp
     {
         static void Main(string[] args)
         {
-            // PrintThreadExemple()
-            // ThreadSpeep()
+            //PrintThreadExemple();
+            // ThreadSpeep();
 
             MultipleThread();
         }
 
         private static void PrintThreadExemple()
         {
+            //Print();
+
+            // passo 1
+            // Print();
             Thread t = new Thread(Print);
             t.Start();
 
+            // passo 2
             for (int i = 0; i < 1000; i++)
             {
                 Console.Write(0);
